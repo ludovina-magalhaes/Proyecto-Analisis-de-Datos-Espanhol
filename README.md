@@ -1,0 +1,6 @@
+# Venta de Productos
+<p>
+  Descripción de la temática de los datos
+Este conjunto de datos sobre Ventas de Productos se presenta como una compilación completa de información que abarca los productos en venta, así como el inicio y final de los convenios establecidos entre la empresa y los clientes, incluyendo detalles de las respectivas facturas y pagos.
+
+</p>
