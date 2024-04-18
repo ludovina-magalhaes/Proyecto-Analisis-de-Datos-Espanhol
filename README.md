@@ -34,4 +34,6 @@ Al se estudiar el cliente se puede saber cual los produto a investir.
 <p> <b>Alcanzable (Achievable):</b> La información recopilada es realista y alcanzable, reflejando de manera precisa la actividad comercial y financiera de la empresa en relación con sus productos.</p>
 <p><b>Relevante (Relevant):</b> La temática es relevante para la toma de decisiones estratégicas, ya que proporciona insights sobre la efectividad de las ventas, la gestión de clientes y la eficiencia financiera.</p>
 <p>El conjunto de datos abarca un periodo temporal específico, permitiendo análisis históricos y facilitando la aplicación de modelos predictivos para comprender y prever patrones futuros.</p>
+#### Alcance, Usuario final y nivel de aplicación
+<p>El análisis de estos datos permite calcular estadísticas y crear visualizaciones para comprender los patrones de ventas actuales y pasados, así como identificar oportunidades y áreas a mejorar. Tambien puede servir como base para la toma de decisiones a largo plazo, como la planificación de estrategias de ventas, la segmentación de clientes, el desarrollo de políticas de precios, y la identificación de áreas de crecimiento y expansión del negocio.</p>
 
