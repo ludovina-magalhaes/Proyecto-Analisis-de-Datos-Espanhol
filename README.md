@@ -34,6 +34,7 @@ Al se estudiar el cliente se puede saber cual los produto a investir.
 <p> <b>Alcanzable (Achievable):</b> La información recopilada es realista y alcanzable, reflejando de manera precisa la actividad comercial y financiera de la empresa en relación con sus productos.</p>
 <p><b>Relevante (Relevant):</b> La temática es relevante para la toma de decisiones estratégicas, ya que proporciona insights sobre la efectividad de las ventas, la gestión de clientes y la eficiencia financiera.</p>
 <p>El conjunto de datos abarca un periodo temporal específico, permitiendo análisis históricos y facilitando la aplicación de modelos predictivos para comprender y prever patrones futuros.</p>
+
 #### Alcance, Usuario final y nivel de aplicación
 <p>El análisis de estos datos permite calcular estadísticas y crear visualizaciones para comprender los patrones de ventas actuales y pasados, así como identificar oportunidades y áreas a mejorar. Tambien puede servir como base para la toma de decisiones a largo plazo, como la planificación de estrategias de ventas, la segmentación de clientes, el desarrollo de políticas de precios, y la identificación de áreas de crecimiento y expansión del negocio.</p>
 
@@ -84,6 +85,22 @@ https://docs.google.com/spreadsheets/d/1cAKkUuACrkbIBD5iTlMMpK9x7IZ5p2Ts/edit?us
 <p><b>Venta:</b></p>
 <p>La tabla "Venta" registra información detallada sobre las transacciones de venta realizadas por la empresa.</p>
 <p>PK: ID_Venta</p>
+
+#### Listado de columnas de tablas
+La venta de productos es un proceso crucial en cualquier negocio, y la gestión eficiente de la información relacionada es esencial para el éxito comercial. En este contexto, las tablas fundamentales que integran el sistema de ventas incluyen "Clientes", "Convenio", "Delegación", "Empleados", "Facturas", "Pago", "Productos" y "Venta". Cada una desempeña un papel específico en el seguimiento y la optimización de las operaciones de venta.
+A la continuación , se hara mención de las columnas que posee cada tabla junto com su tipo de campo y claves:</p>
+
+
+Cliente
+Tipo de Clave 	Campos	Tipo de dato
+PK	ID_Cliente	INT
+-	Cliente	VARCHAR(100)
+-	Segmento	VARCHAR(100)
+- Teléfono	INT
+-	Ciudad	VARCHAR(100)
+-	País	VARCHAR(100)
+
+
 
 
 
