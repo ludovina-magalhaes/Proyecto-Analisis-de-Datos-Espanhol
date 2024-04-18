@@ -30,8 +30,8 @@ Al se estudiar el cliente se puede saber cual los produto a investir.
 <p>- Proporcionar insights sobre el rendimiento de los empleados y delegaciones para optimizar la asignación de recursos.</p>
 <p>Para garantizamos que la descripción de la temática cumpla con los principios de la metodología SMART:</p>
 <p><b>Específico (Specific):</b> El conjunto de datos se centra específicamente en proporcionar información detallada sobre las transacciones de venta, acuerdos con clientes y las transacciones financieras asociadas.</p>
-<p><b>Medible (Measurable): Se incluyen datos cuantificables como ventas, pagos, descuentos, inicio y final de convenios, permitiendo la aplicación de estadísticas descriptivas y análisis correlativos para medir y entender las tendencias del negocio.</p>
-<p> <b>Alcanzable (Achievable): La información recopilada es realista y alcanzable, reflejando de manera precisa la actividad comercial y financiera de la empresa en relación con sus productos.</p>
-<p><b>Relevante (Relevant): La temática es relevante para la toma de decisiones estratégicas, ya que proporciona insights sobre la efectividad de las ventas, la gestión de clientes y la eficiencia financiera.</p>
+<p><b>Medible (Measurable):</b> Se incluyen datos cuantificables como ventas, pagos, descuentos, inicio y final de convenios, permitiendo la aplicación de estadísticas descriptivas y análisis correlativos para medir y entender las tendencias del negocio.</p>
+<p> <b>Alcanzable (Achievable):</b> La información recopilada es realista y alcanzable, reflejando de manera precisa la actividad comercial y financiera de la empresa en relación con sus productos.</p>
+<p><b>Relevante (Relevant):</b> La temática es relevante para la toma de decisiones estratégicas, ya que proporciona insights sobre la efectividad de las ventas, la gestión de clientes y la eficiencia financiera.</p>
 <p>El conjunto de datos abarca un periodo temporal específico, permitiendo análisis históricos y facilitando la aplicación de modelos predictivos para comprender y prever patrones futuros.</p>
 
