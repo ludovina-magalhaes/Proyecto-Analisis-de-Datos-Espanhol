@@ -136,6 +136,37 @@ A la continuación , se hara mención de las columnas que posee cada tabla junto
 <p>•	Quitar filas en blanco.</p>
 <p>•	Se redondeó a 2 casas decimales la columna ImportePagado.</p> 
 
+<p><b>Tabla Productos:</b></p> 
+<p>•	Detectar tipo de datos.</p>
+<p>•	La columna ID_Poductos se cambio del tipo de número decimal a tipo texto.</p>
+<p>•	Quitar filas en blanco.</p>
+<p>•	Se redondeó a 2 casas decimales la columna Precio Unitario.</p>
+<p><b>Tabla Venta:</b></p> 
+<p>•	Detectar tipo de datos.</p></p>
+<p>•	La columna ID_Venta se cambio del tipo de número decimal a tipo texto.
+
+<p><b>Medidas calculadas</b></p>
+<p>En la tabla "Medidas" se recopilan todas las medidas relevantes para el proyecto final.<p>
+<p><b>Medidas de Clientes:</b></p>
+Total_Clientes = DISTINCTCOUNT(Clientes[Cliente])</p>
+
+<p>Promedio de Total_Facturación por Cliente = 
+AVERAGEX(KEEPFILTERS(VALUES('Clientes'[Cliente])),CALCULATE([Total_Facturación])</p>
+
+<p><b>Medidas de Facturación:</b></p>
+<p>Total_Facturación = SUM(Facturas[ImporteFactura])</p>
+
+<p>Promedio Facturado = AVERAGE(Facturas[ImporteFactura])</p>
+
+<p><b>Medidas de Producto:</b></p>
+<p>Promedio de Total_Facturación por Producto = 
+AVERAGEX(KEEPFILTERS(VALUES('Clientes'[Cliente])),CALCULATE([Total_Facturación])</p>
+
+<p>Total_Facturación máx. por Producto = MAXX(KEEPFILTERS(VALUES('Productos'[Producto])),CALCULATE([Total_Facturación])</p>
+<p>Total_Productos = DISTINCTCOUNT(Productos[Marca])</p>
+
+<p>Total_Productos = DISTINCTCOUNT(Productos[Marca]</p>)
+
 
 
 
