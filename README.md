@@ -87,21 +87,13 @@ https://docs.google.com/spreadsheets/d/1cAKkUuACrkbIBD5iTlMMpK9x7IZ5p2Ts/edit?us
 <p>PK: ID_Venta</p>
 
 #### Listado de columnas de tablas
-La venta de productos es un proceso crucial en cualquier negocio, y la gestión eficiente de la información relacionada es esencial para el éxito comercial. En este contexto, las tablas fundamentales que integran el sistema de ventas incluyen "Clientes", "Convenio", "Delegación", "Empleados", "Facturas", "Pago", "Productos" y "Venta". Cada una desempeña un papel específico en el seguimiento y la optimización de las operaciones de venta.
+<p>La venta de productos es un proceso crucial en cualquier negocio, y la gestión eficiente de la información relacionada es esencial para el éxito comercial. En este contexto, las tablas fundamentales que integran el sistema de ventas incluyen "Clientes", "Convenio", "Delegación", "Empleados", "Facturas", "Pago", "Productos" y "Venta". Cada una desempeña un papel específico en el seguimiento y la optimización de las operaciones de venta.
 A la continuación , se hara mención de las columnas que posee cada tabla junto com su tipo de campo y claves:</p>
+
 ![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/d56fa066-7026-41ca-b698-07ea6bb1318c)
 ![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/cedc3d92-fc02-42d3-815c-3c177f64514b)
 
 
-![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/23249db0-1f7f-43c9-8b50-1aa930a7c3f5)
-![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/5cf29746-748c-49b6-bdb8-f77652992da8)
-![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/8ab57287-3149-41dc-b92f-617004e61803)
-![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/29e66af3-ec5f-45a7-8567-67883d2c09fd)
-![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/af720df4-96bb-49ab-aa7d-b5baf3d0a5fa)
-![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/e138e9cc-411c-48fb-8661-f1eb335d88ed)
-![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/c0be361f-70eb-4e28-aef2-55c05d0089f9)
-![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/3f345996-af64-4797-a6e3-7ff5c1297bd0)
-![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/c659f511-66c4-4eb8-bd24-f485a3f341f5)
 
 
 
