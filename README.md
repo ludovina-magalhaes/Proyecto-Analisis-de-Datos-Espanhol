@@ -91,14 +91,19 @@ La venta de productos es un proceso crucial en cualquier negocio, y la gestión 
 A la continuación , se hara mención de las columnas que posee cada tabla junto com su tipo de campo y claves:</p>
 
 
-Cliente
-Tipo de Clave 	Campos	Tipo de dato
-PK	ID_Cliente	INT
--	Cliente	VARCHAR(100)
--	Segmento	VARCHAR(100)
-- Teléfono	INT
--	Ciudad	VARCHAR(100)
--	País	VARCHAR(100)
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/23249db0-1f7f-43c9-8b50-1aa930a7c3f5)
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/5cf29746-748c-49b6-bdb8-f77652992da8)
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/8ab57287-3149-41dc-b92f-617004e61803)
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/29e66af3-ec5f-45a7-8567-67883d2c09fd)
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/af720df4-96bb-49ab-aa7d-b5baf3d0a5fa)
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/e138e9cc-411c-48fb-8661-f1eb335d88ed)
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/c0be361f-70eb-4e28-aef2-55c05d0089f9)
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/3f345996-af64-4797-a6e3-7ff5c1297bd0)
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/c659f511-66c4-4eb8-bd24-f485a3f341f5)
+
+
+
+
 
 
 
