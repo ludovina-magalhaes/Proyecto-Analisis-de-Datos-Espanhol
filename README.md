@@ -165,9 +165,16 @@ AVERAGEX(KEEPFILTERS(VALUES('Clientes'[Cliente])),CALCULATE([Total_Facturación]
 <p>Total_Facturación máx. por Producto = MAXX(KEEPFILTERS(VALUES('Productos'[Producto])),CALCULATE([Total_Facturación])</p>
 <p>Total_Productos = DISTINCTCOUNT(Productos[Marca])</p>
 
-<p>Total_Productos = DISTINCTCOUNT(Productos[Marca]</p>)
+<p>Total_Productos = DISTINCTCOUNT(Productos[Marca])</p>
 
+<p><b>Modelo relacional de Power BI</b></p>
 
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/1d73edd7-d058-4a96-a226-eeacc0876c3a)
+<p><b>Futuras Líneas</b></p>
+<p>A futuro se recomenda a generar un dashboard que haga la comparación de la Facturación por Marca y outro dashboard con los datos de cual la Delegación que más vende con un gráfico de Mapa.</p>
+<p><b>Dashboard y Descripción</b></p>
+<p><b>Dashboard Portada</b></p>
+<p>En esta solapa se presenta el Proyecto y los dashboard de Cliente, Facturación y Productos.<p>
 
 
 
