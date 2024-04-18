@@ -50,4 +50,40 @@ https://docs.google.com/spreadsheets/d/1cAKkUuACrkbIBD5iTlMMpK9x7IZ5p2Ts/edit?us
 <p><b>Clientes:</b></p>
 <p>La tabla “Clientes” almacena información detallada sobre los clientes, incluyendo sus datos personales, información de contacto y cualquier detalle relevante que facilite una relación comercial efectiva. Esta tabla sirve como base para establecer conexiones con otras tablas, como “Facturas”, donde la “id_cliente fk” vincula cada factura a un cliente específico.</p>
 <p>PK: ID_CLIENTE</p>
+<p><b>Convenio:</b></p>
+<p>El "Convenio" registra acuerdos o contratos especiales con clientes, brindando un marco para la gestión de descuentos, términos de pago u otras condiciones especiales que puedan afectar las transacciones de venta.</p>
+<p>PK : ID_Convenio</p>
+<p>FK : ID_Cliente</p>
+<p>FK : ID_Delegación</p>
+<p><b>Delegación:</b></p>
+<p>La tabla "Delegación" se utiliza para organizar y gestionar las distintas delegaciones o sucursales de la empresa. Esto es crucial para negocios con presencia geográfica diversa, ya que permite un seguimiento preciso de las ventas en cada ubicación.</p>
+<p>PK: ID_Delegación</p>
+
+<p><b>Empleados:</b></p>
+<p>Los "Empleados" son parte integral del proceso de venta, y la tabla correspondiente almacena información sobre el personal de ventas.</p>
+<p>PK: ID_Empleado</p>
+
+<p><b>Facturas:</b></p>
+<p>Las transacciones comerciales se registran en la tabla "Facturas", donde cada factura y se conecta a clientes, empleados y produtos.</p>
+<p>PK:ID_Factura</p>
+<p>FK: Id_Cliente</p>
+<p>FK:ID_Empleado</p>
+<p>FK: ID_Venta</p>
+<p>FK: Producto</p>
+
+<p><b>Pago:</b></p>
+<p>La tabla "Pago" rastrea los pagos asociados a cada factura, proporcionando una visión completa del ciclo financiero de la venta.</p>
+<p>PK: ID_Pago</p>
+<p>FK: ID_Factura</p>
+<p>FK: ID_Cliente</p>
+
+<p><b>Productos:</b></p>
+<p>La tabla "Productos" detalla la gama de productos disponibles para la venta, incluyendo información sobre inventario, precios y otros detalles esenciales. Por último, la tabla "Venta" actúa como un registro central para todas las transacciones de venta, conectando productos, empleados y clientes en un único punto de referencia.</p>
+<p>PK: ID_Produtos</p>
+
+<p><b>Venta:</b></p>
+<p>La tabla "Venta" registra información detallada sobre las transacciones de venta realizadas por la empresa.</p>
+<p>PK: ID_Venta</p>
+
+
 
