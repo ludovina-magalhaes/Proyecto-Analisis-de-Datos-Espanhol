@@ -46,4 +46,8 @@ https://docs.google.com/spreadsheets/d/1cAKkUuACrkbIBD5iTlMMpK9x7IZ5p2Ts/edit?us
 
 ![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/ff3484e8-254f-4d0e-bf62-e9586abea533)
 
+#### Listado de tablas
+<p><b>Clientes:</b></p>
+<p>La tabla “Clientes” almacena información detallada sobre los clientes, incluyendo sus datos personales, información de contacto y cualquier detalle relevante que facilite una relación comercial efectiva. Esta tabla sirve como base para establecer conexiones con otras tablas, como “Facturas”, donde la “id_cliente fk” vincula cada factura a un cliente específico.</p>
+<p>PK: ID_CLIENTE</p>
 
