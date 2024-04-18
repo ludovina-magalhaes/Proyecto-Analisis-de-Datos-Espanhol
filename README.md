@@ -96,6 +96,45 @@ A la continuación , se hara mención de las columnas que posee cada tabla junto
 ![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/56562acc-ee7d-4b0a-bfac-1f0bdf25571a)
 
 
+<p>En conjunto, estas tablas forman un sistema integral que facilita la gestión eficiente de la venta de productos, desde la interacción con clientes hasta el seguimiento detallado de cada transacción y pago, contribuyendo al crecimiento y la eficacia del negocio.</p> 
+
+#### Transformación de Datos
+<p>A continuación se detallan todas las modificaciones realizadas en las diferentes tablas del proyecto final.</p> 
+<p><b>Tabla Clientes:</b></p> 
+•	Detectar tipo de datos.
+•	La columna ID_Cliente se cambio del tipo de número decimal a tipo texto.
+•	La columna Teléfono se cambio del tipo de datos de número entero a tipo texto porque cambiar el tipo de datos a texto evitará que se pierdan los ceros iniciales y acepta caracteres.
+•	Quitar filas en blanco.
+
+<p><b>Tabla Convenio:</b></p> 
+•	Detectar tipo de datos.
+•	La columna ID_Convenio se cambio del tipo de número decimal a tipo texto.
+•	La columna ID_Cliente se cambio del tipo de número decimal a tipo texto.
+•	La columna ID_Delegación se cambio del tipo de número decimal a tipo texto.
+•	Quitar filas en blanco.
+•	Se redondeó a 2 casas decimales la columna CosteConvenio.
+
+<p><b>Tabla Delegación:</b></p> 
+•	Detectar tipo de datos.
+•	La columna ID_Delegación se cambio del tipo de número decimal a tipo texto.
+<p><b>Tabla Empleados:</b></p> 
+•	Detectar tipo de datos.
+•	La columna ID_Empleados se cambio del tipo de número decimal a tipo texto.
+
+<p><b>Tabla Facturas:</b></p> 
+•	Detectar tipo de datos.
+•	La columna ID_Facturas se cambio del tipo de número decimal a tipo texto.
+•	Quitar filas en blanco.
+•	Se redondeó a 2 casas decimales la columna ImporteSinImpuesto. 
+•	Se redondeó a 2 casas decimales la columna Impuesto.
+
+<p><b>Tabla Pago:</b></p> 
+•	Detectar tipo de datos.
+•	La columna ID_Pago se cambio del tipo de número decimal a tipo texto.
+•	La columna ID_Factura se cambio del tipo de número decimal a tipo texto.
+•	La columna ID_Cliente se cambio del tipo de número decimal a tipo texto.
+•	Quitar filas en blanco.
+•	Se redondeó a 2 casas decimales la columna ImportePagado. 
 
 
 
