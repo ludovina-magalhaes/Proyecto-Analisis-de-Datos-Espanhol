@@ -91,6 +91,8 @@ https://docs.google.com/spreadsheets/d/1cAKkUuACrkbIBD5iTlMMpK9x7IZ5p2Ts/edit?us
 A la continuación , se hara mención de las columnas que posee cada tabla junto com su tipo de campo y claves:</p> 
 
 ![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/8aca9305-3d94-47cd-af27-bc7838c7d364)
+
+
 ![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/56562acc-ee7d-4b0a-bfac-1f0bdf25571a)
 
 
