@@ -90,8 +90,8 @@ https://docs.google.com/spreadsheets/d/1cAKkUuACrkbIBD5iTlMMpK9x7IZ5p2Ts/edit?us
 <p>La venta de productos es un proceso crucial en cualquier negocio, y la gestión eficiente de la información relacionada es esencial para el éxito comercial. En este contexto, las tablas fundamentales que integran el sistema de ventas incluyen "Clientes", "Convenio", "Delegación", "Empleados", "Facturas", "Pago", "Productos" y "Venta". Cada una desempeña un papel específico en el seguimiento y la optimización de las operaciones de venta.
 A la continuación , se hara mención de las columnas que posee cada tabla junto com su tipo de campo y claves:</p>
 
-<p>  ![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/d56fa066-7026-41ca-b698-07ea6bb1318c)  </p>
-<p>  ![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/cedc3d92-fc02-42d3-815c-3c177f64514b)  </p>
+ ![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/d56fa066-7026-41ca-b698-07ea6bb1318c)  
+  ![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/cedc3d92-fc02-42d3-815c-3c177f64514b)  
 
 
 
