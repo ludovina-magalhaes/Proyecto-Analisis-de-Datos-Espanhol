@@ -37,3 +37,13 @@ Al se estudiar el cliente se puede saber cual los produto a investir.
 #### Alcance, Usuario final y nivel de aplicación
 <p>El análisis de estos datos permite calcular estadísticas y crear visualizaciones para comprender los patrones de ventas actuales y pasados, así como identificar oportunidades y áreas a mejorar. Tambien puede servir como base para la toma de decisiones a largo plazo, como la planificación de estrategias de ventas, la segmentación de clientes, el desarrollo de políticas de precios, y la identificación de áreas de crecimiento y expansión del negocio.</p>
 
+#### Dataset
+<p>A continuación, se Adjunta el Dataset utilizado para el trabajo:
+https://docs.google.com/spreadsheets/d/1cAKkUuACrkbIBD5iTlMMpK9x7IZ5p2Ts/edit?usp=sharing&ouid=112704212058160105170&rtpof=true&sd=true</p>
+
+
+#### Diagrama entidad-relación
+
+![image](https://github.com/lagmagalhaes/Projeto-Analise-de-Dados/assets/166879716/ff3484e8-254f-4d0e-bf62-e9586abea533)
+
+
