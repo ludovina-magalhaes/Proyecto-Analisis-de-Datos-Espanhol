@@ -1,4 +1,4 @@
-# Venta de Productos yAnalisis de datos con Power Bi
+# Venta de Productos con Analisis de datos en Power Bi
 <p>
   
  #### Descripción de la temática de los datos
