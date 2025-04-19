@@ -159,9 +159,18 @@ A la continuación , se hara mención de las columnas que posee cada tabla junto
 <p><b>Dashboard Portada</b></p>
 <p>En esta solapa se presenta el Proyecto y los dashboard de Cliente, Facturación y Productos.<p>
 ![image](https://github.com/user-attachments/assets/94433f67-40fd-4bb5-b0c6-a8c2611d465b)
+
+  
 ![image](https://github.com/user-attachments/assets/622b3f46-3804-4d37-b66a-bc3efc2f827c)
+
+
 ![image](https://github.com/user-attachments/assets/97e3d20f-61ba-4d53-9703-d1ecfce33df5)
-![image](https://github.com/user-attachments/assets/91eba263-05e2-4b9f-a76b-1110bf0461cc)![image](https://github.com/user-attachments/assets/7d16a7e4-3484-4ff8-b881-4ec735296ba2)
+
+
+![image](https://github.com/user-attachments/assets/91eba263-05e2-4b9f-a76b-1110bf0461cc)
+
+
+![image](https://github.com/user-attachments/assets/7d16a7e4-3484-4ff8-b881-4ec735296ba2)
 
 
 
