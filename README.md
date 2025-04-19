@@ -146,26 +146,9 @@ A la continuación , se hara mención de las columnas que posee cada tabla junto
 <p>•	La columna ID_Venta se cambio del tipo de número decimal a tipo texto.
 
 <p><b>Medidas calculadas</b></p>
-<p>En la tabla "Medidas" se recopilan todas las medidas relevantes para el proyecto final.<p>
-<p><b>Medidas de Clientes:</b></p>
-Total_Clientes = DISTINCTCOUNT(Clientes[Cliente])</p>
 
-<p>Promedio de Total_Facturación por Cliente = 
-AVERAGEX(KEEPFILTERS(VALUES('Clientes'[Cliente])),CALCULATE([Total_Facturación])</p>
+![image](https://github.com/user-attachments/assets/edfa563a-7992-45ce-abfe-1ea01570b613)
 
-<p><b>Medidas de Facturación:</b></p>
-<p>Total_Facturación = SUM(Facturas[ImporteFactura])</p>
-
-<p>Promedio Facturado = AVERAGE(Facturas[ImporteFactura])</p>
-
-<p><b>Medidas de Producto:</b></p>
-<p>Promedio de Total_Facturación por Producto = 
-AVERAGEX(KEEPFILTERS(VALUES('Clientes'[Cliente])),CALCULATE([Total_Facturación])</p>
-
-<p>Total_Facturación máx. por Producto = MAXX(KEEPFILTERS(VALUES('Productos'[Producto])),CALCULATE([Total_Facturación])</p>
-<p>Total_Productos = DISTINCTCOUNT(Productos[Marca])</p>
-
-<p>Total_Productos = DISTINCTCOUNT(Productos[Marca])</p>
 
 <p><b>Modelo relacional de Power BI</b></p>
 
@@ -175,6 +158,15 @@ AVERAGEX(KEEPFILTERS(VALUES('Clientes'[Cliente])),CALCULATE([Total_Facturación]
 <p><b>Dashboard y Descripción</b></p>
 <p><b>Dashboard Portada</b></p>
 <p>En esta solapa se presenta el Proyecto y los dashboard de Cliente, Facturación y Productos.<p>
+![image](https://github.com/user-attachments/assets/94433f67-40fd-4bb5-b0c6-a8c2611d465b)
+![image](https://github.com/user-attachments/assets/622b3f46-3804-4d37-b66a-bc3efc2f827c)
+![image](https://github.com/user-attachments/assets/97e3d20f-61ba-4d53-9703-d1ecfce33df5)
+![image](https://github.com/user-attachments/assets/91eba263-05e2-4b9f-a76b-1110bf0461cc)![image](https://github.com/user-attachments/assets/7d16a7e4-3484-4ff8-b881-4ec735296ba2)
+
+
+
+
+
 
 
 
